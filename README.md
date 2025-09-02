@@ -1,6 +1,6 @@
 # 3DBiCD
 <p align="center">
-   <img src="Dataset_show.jpg" >      
+   <img src="Dataset_show_2.jpg" >      
 </p>
 
 # Overview
